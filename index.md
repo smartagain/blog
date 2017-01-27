@@ -4,3 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+{% for post in site.posts %}
+  <h2>{{ post.title }}</h2>
+  <p>Posted: {{ post.date }}
+{% endfor %}
