@@ -16,9 +16,7 @@
 title: Make America Smart Again!
 email: sharkbeardio@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a blog about American Politics designed to be bipartisan
-  and to educate voters in ways that enable them to be informed 
-  enough to be protected from any lies.
+  This is a blog about American Politics designed to be defend against lies to voters through education.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.smartaga.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sharkbeard
