@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "New blog"
 date:   2016-12-16 12:49:24 -0500
 categories: about update
